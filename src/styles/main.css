@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa|Patua+One");
+
+/*Typography
+--------------------------------------------------------------*/
+body {
+    background-color: rgb(255, 237, 195);
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    color: rgb(63, 18, 5);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.plant {
+    padding: 0.5em;
+    grid-row: span;
+}
+
